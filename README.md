@@ -1,6 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://danishsohail.netlify.app/)
+[![MasterHead](https://c4.wallpaperflare.com/wallpaper/435/542/549/javascript-google-node-js-html-microsoft-visual-studio-hd-wallpaper-thumb.jpg)](https://danishsohail.netlify.app/)
 <h1 align="center">Hi 👋, I'm Danish Sohail</h1>
-<h3 align="center">A passionate Computer Science Engineer and FullStack Developer from Delhi Technological University, India.</h3>
+<h3 align="center">A Computer Science Engineer and a FullStack Developer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danish101-sohail&label=Profile%20views&color=0e75b6&style=flat" alt="danish101-sohail" /> </p>
