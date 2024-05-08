@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Danish Sohail</h1>
 <h3 align="center">A Computer Science Engineer and a FullStack Developer from India.</h3>
 
-<img align="right" alt="Coding" width="500" height="450" src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif">
+<img align="right" alt="Coding" width="450" height="450" src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danish101-sohail&label=Profile%20views&color=0e75b6&style=flat" alt="danish101-sohail" /> </p>
 
